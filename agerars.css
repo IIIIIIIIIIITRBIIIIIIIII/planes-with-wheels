@@ -1,0 +1,37 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    height: 50px;
+}
+
+#gta {
+    width: 60px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+
+#speed {
+    color: gray;
+    font-size: 20px;
+}
+
+#speed:hover {
+    color: rgb(219, 148, 17);
+}
+
+#top {
+   color: white;
+   font-size: 20px;
+}
+
+#top:hover {
+    color: red;
+} 

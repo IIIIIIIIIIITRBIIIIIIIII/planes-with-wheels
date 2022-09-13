@@ -1,0 +1,76 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    height: 50px;
+}
+
+#gta {
+    width: 70px;
+    height: 45px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+
+#speed {
+    color: rgb(219, 148, 17);
+    font-size: 20px;
+}
+
+#speed:hover {
+    color: blue;
+}
+
+#top {
+   color: blue;
+   font-size: 20px;
+}
+
+#top:hover {
+    color: rgb(219, 148, 17);
+} 
+
+.vr {
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+}
+
+#bugg {
+    color:rgb(219, 148, 17)
+}
+
+p {
+    font-size: 20px
+}
+
+.tory {
+    margin-top: 100px;
+    width: 600px;
+    margin-left: 500px;
+}
+
+#itore {
+    color: blue;
+}
+
+#lalala {
+    width: 70px;
+    margin-top: 70px;
+    text-align: center;
+    border-radius: 9px;
+    margin-left: 700px;
+}
+

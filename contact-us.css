@@ -1,0 +1,151 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    border-radius: 25px;
+    height: 55px;
+}
+
+#hotwheels {
+    width: 50px;
+    margin-right: 200px;
+    height: 50px;
+    margin-top: 2px;
+}
+
+.gears {
+    padding-top: 10px;
+}
+
+
+#supra {
+    margin-right: 5px;
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#supra:hover {
+    color: red;
+}
+
+#audi {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#audi:hover {
+    color: red;
+}
+
+#ford {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 18px;
+} 
+
+#ford:hover {
+    color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.rickroll {
+    animation: 3s linear 0s infinite running ;
+}
+
+h3 {
+    color: rgb(116, 116, 219);
+    margin-top: 50px;
+}
+
+form {
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-left: 550px;
+    background-image: url(./drift.png);
+    color:rgb(236, 248, 248);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+#ju {
+    width: 250px;
+    margin-left: 30px;
+    border-radius: 20px;
+    height: 30px;
+}
+
+#sup {
+    width: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+
+.twit {
+    width: 200px;
+    background-color: rgb(155, 152, 152);
+    height: 150px;
+    text-align: center;
+    margin-left: 130px;
+    margin-bottom: 250px;
+    border-radius: 15px;
+}
+
+#ccr {
+  width: 30px;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.jellyfish {
+    width: 200px;
+    background-color: rgb(180, 169, 169);
+    height: 150px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-bottom: 250px;
+}
+
+.krik {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.loc {
+    width: 200px;
+    background-color: rgb(180, 169, 169);
+    height: 150px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.lol {
+    width: 200px;
+    background-color: rgb(180, 169, 169);
+    height: 150px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 20px;
+}

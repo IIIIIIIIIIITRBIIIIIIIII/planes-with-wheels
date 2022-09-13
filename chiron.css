@@ -1,0 +1,95 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    height: 50px;
+}
+
+#gta {
+    width: 70px;
+    height: 45px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+
+#speed {
+    color: rgb(219, 148, 17);
+    font-size: 20px;
+}
+
+#speed:hover {
+    color: blue;
+}
+
+#top {
+   color: blue;
+   font-size: 20px;
+}
+
+#top:hover {
+    color: rgb(219, 148, 17);
+} 
+
+h4 {
+margin-left: 320px;
+    color:blue;
+    font-size: 23px;
+}
+
+#ch{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.no{
+    margin-left: 600px;
+}
+
+#hh {
+    color: blue;
+}
+
+h3 {
+    color:rgb(73, 71, 71);
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.top {
+    margin-top: 100px;
+    margin-left: 35px;
+width: 900px;
+}
+
+h2 {
+    color: grey;
+}
+
+.gears {
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.power {
+    margin-top: 50px;
+    margin-left: 35px;
+    width: 900px;
+}
+
+.hp {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+.vid {
+    margin-top: 50px;
+    margin-left: 35px;
+}

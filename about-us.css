@@ -1,0 +1,107 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    border-radius: 25px;
+    height: 55px;
+}
+
+#hotwheels {
+    width: 50px;
+    margin-right: 200px;
+    height: 50px;
+    margin-top: 2px;
+}
+
+.gears {
+    padding-top: 10px;
+}
+
+
+#supra {
+    margin-right: 5px;
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#supra:hover {
+    color: red;
+}
+
+#audi {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#audi:hover {
+    color: red;
+}
+
+#ford {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 18px;
+} 
+
+#ford:hover {
+    color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.rickroll {
+    animation: 3s linear 0s infinite running ;
+}
+
+.jdm {
+   margin-top: 150px;
+   width: 850px;
+   height: 500px;
+   margin-left: 350px;
+   border-style: groove;
+   box-shadow: 2px 2px 5px grey;
+   border-radius: 20px;
+}
+
+
+.rb-power {
+   margin-top: 30px;
+   margin-left: 30px;
+}
+
+
+.exhaust {
+    margin-top: 30px;
+   margin-left: 30px;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(31, 31, 172);
+    font-size: 30px;
+}
+
+h2 {
+    color:rgb(31, 31, 172);
+    font-size: 25px;
+}
+
+#jz {
+    color:rgb(48, 172, 172);
+}
+
+#ferrari {
+    margin-top: 20px;
+    color:rgb(83, 153, 153);
+}
+

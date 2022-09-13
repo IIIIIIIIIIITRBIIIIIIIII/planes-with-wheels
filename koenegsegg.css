@@ -1,0 +1,73 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    height: 50px;
+}
+
+#gta {
+    width: 60px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+
+#speed {
+    color: gray;
+    font-size: 20px;
+}
+
+#speed:hover {
+    color: rgb(219, 148, 17);
+}
+
+#top {
+   color: white;
+   font-size: 20px;
+}
+
+#top:hover {
+    color: red;
+} 
+
+.speed {
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.ussr {
+    margin-top: 100px;
+    width: 800px;
+    margin-left: 350px;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#ko {
+    color: rgb(89, 87, 87);
+}
+
+#lalala {
+    width: 70px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 9px;
+    margin-left: 700px;
+}

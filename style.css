@@ -1,0 +1,217 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    border-radius: 25px;
+    height: 55px;
+}
+
+#hotwheels {
+    width: 50px;
+    margin-right: 200px;
+    height: 50px;
+    margin-top: 2px;
+}
+
+.gears {
+    padding-top: 10px;
+}
+
+
+#supra {
+    margin-right: 5px;
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#supra:hover {
+    color: red;
+}
+
+#audi {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#audi:hover {
+    color: red;
+}
+
+#ford {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 18px;
+} 
+
+#ford:hover {
+    color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.rickroll {
+    animation: 3s linear 0s infinite running ;
+}
+
+.logos {
+  width: 600px;
+  height: 550px;
+  margin-top: 20px;
+  margin-left: 450px;
+  padding-left: 30px;
+  background-image: url(road.png);
+  background-repeat: no-repeat;
+  background-size:cover;
+  box-shadow: 3px 3px 3px 3px;
+}
+
+#hello {
+    margin-top: 5px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+#mastershief {
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: black,
+}
+
+b{
+    color: black;
+    margin-top: 30px;
+}
+
+p {
+    margin-top: 15px;
+    color: black;
+    font-size: 16px;
+}
+
+.veyron {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(240, 201, 128);
+    padding-top: 10px;
+    height: 270px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#cars {
+  text-align: center;
+  width: 300px;
+  margin-right: 15px;
+  
+}
+
+#ic {
+    width: 10px;
+}
+
+.em {
+    margin-left: 1200px;
+}
+
+#gr {
+    width: 150px;
+    border-radius: 6px;
+}
+
+.agera {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(73, 73, 73);
+    padding-top: 10px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.cards {
+    display: flex;
+  flex-direction: row;
+  width: 2650px;
+}
+
+#para {
+    color: rgb(223, 173, 80);
+}
+
+#rs {
+    color: rgb(223, 173, 80);
+}
+
+.f1 {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(49, 49, 93);
+    padding-top: 10px;
+    height: 450px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#venom {
+    color: red;
+}
+
+.lfa {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(173, 166, 166);
+    padding-top: 10px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.bmw {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(86, 86, 249);
+    padding-top: 10px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#vv {
+    color: rgb(10, 81, 10);
+}
+
+#lol {
+    color:rgb(186, 186, 234);
+}
+
+
+#rt {
+    width: 30px;
+    margin-top: 200px;
+    margin-left: 10px;
+}
+
+#lt{
+    width: 30px;
+    margin-top: 200px;
+    margin-right: 10px;
+}

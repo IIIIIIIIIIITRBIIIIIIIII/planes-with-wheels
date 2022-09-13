@@ -1,0 +1,96 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    height: 50px;
+}
+
+#gta {
+    width: 70px;
+    height: 45px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+
+#speed {
+    color: rgb(219, 148, 17);
+    font-size: 20px;
+}
+
+#speed:hover {
+    color: blue;
+}
+
+#top {
+   color: blue;
+   font-size: 20px;
+}
+
+#top:hover {
+    color: rgb(219, 148, 17);
+} 
+
+#bones {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+h4 {
+    margin-left: 320px;
+    color:rgb(219, 148, 17);
+    font-size: 23px;
+}
+
+.sport {
+    margin-left: 60px;
+    margin-top: 100px;
+} 
+
+#engine {
+    margin-top: 10px;
+}
+
+h2 {
+    color: grey;
+}
+
+h3 {
+    color:rgb(73, 71, 71);
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.w {
+margin-left: 35px;
+width: 900px;
+}
+
+.power {
+    margin-top: 50px;
+    margin-left: 35px;
+width: 900px;
+}
+
+span {
+    font-size: 25px;
+    color:rgb(219, 148, 17)
+}
+
+.guenis {
+    width: 900px;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+.vid {
+    margin-top: 50px;
+    margin-left: 35px;
+}
